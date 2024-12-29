@@ -1,0 +1,115 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Hotel_Management_System
+build_property.RootNamespace = Hotel_Management_System
+build_property.ProjectDir = C:\Users\TEMP.ELSEWEDY-SCHOOL.000\Desktop\Hotel_Management_System\Hotel_Management_System\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\TEMP.ELSEWEDY-SCHOOL.000\Desktop\Hotel_Management_System\Hotel_Management_System
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/TEMP.ELSEWEDY-SCHOOL.000/Desktop/Hotel_Management_System/Hotel_Management_System/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/TEMP.ELSEWEDY-SCHOOL.000/Desktop/Hotel_Management_System/Hotel_Management_System/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/TEMP.ELSEWEDY-SCHOOL.000/Desktop/Hotel_Management_System/Hotel_Management_System/Views/Hotel/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG90ZWxcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/TEMP.ELSEWEDY-SCHOOL.000/Desktop/Hotel_Management_System/Hotel_Management_System/Views/Hotel/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG90ZWxcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/TEMP.ELSEWEDY-SCHOOL.000/Desktop/Hotel_Management_System/Hotel_Management_System/Views/Hotel/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG90ZWxcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/TEMP.ELSEWEDY-SCHOOL.000/Desktop/Hotel_Management_System/Hotel_Management_System/Views/Hotel/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG90ZWxcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/TEMP.ELSEWEDY-SCHOOL.000/Desktop/Hotel_Management_System/Hotel_Management_System/Views/Hotel/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG90ZWxcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/TEMP.ELSEWEDY-SCHOOL.000/Desktop/Hotel_Management_System/Hotel_Management_System/Views/Reservations/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZXJ2YXRpb25zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/TEMP.ELSEWEDY-SCHOOL.000/Desktop/Hotel_Management_System/Hotel_Management_System/Views/Reservations/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZXJ2YXRpb25zXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/TEMP.ELSEWEDY-SCHOOL.000/Desktop/Hotel_Management_System/Hotel_Management_System/Views/Reservations/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZXJ2YXRpb25zXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/TEMP.ELSEWEDY-SCHOOL.000/Desktop/Hotel_Management_System/Hotel_Management_System/Views/Reservations/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZXJ2YXRpb25zXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/TEMP.ELSEWEDY-SCHOOL.000/Desktop/Hotel_Management_System/Hotel_Management_System/Views/Reservations/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZXJ2YXRpb25zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/TEMP.ELSEWEDY-SCHOOL.000/Desktop/Hotel_Management_System/Hotel_Management_System/Views/Room/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9vbVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/TEMP.ELSEWEDY-SCHOOL.000/Desktop/Hotel_Management_System/Hotel_Management_System/Views/Room/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9vbVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/TEMP.ELSEWEDY-SCHOOL.000/Desktop/Hotel_Management_System/Hotel_Management_System/Views/Room/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9vbVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/TEMP.ELSEWEDY-SCHOOL.000/Desktop/Hotel_Management_System/Hotel_Management_System/Views/Room/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9vbVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/TEMP.ELSEWEDY-SCHOOL.000/Desktop/Hotel_Management_System/Hotel_Management_System/Views/Room/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9vbVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/TEMP.ELSEWEDY-SCHOOL.000/Desktop/Hotel_Management_System/Hotel_Management_System/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/TEMP.ELSEWEDY-SCHOOL.000/Desktop/Hotel_Management_System/Hotel_Management_System/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/TEMP.ELSEWEDY-SCHOOL.000/Desktop/Hotel_Management_System/Hotel_Management_System/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/TEMP.ELSEWEDY-SCHOOL.000/Desktop/Hotel_Management_System/Hotel_Management_System/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/TEMP.ELSEWEDY-SCHOOL.000/Desktop/Hotel_Management_System/Hotel_Management_System/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-jowtxwvwn6
